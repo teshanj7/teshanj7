@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Machine Learning model to detect fake news.**
 
-- 🌱 I’m currently learning **Python + Flask.**
+- 🌱 I’m currently learning **Angular and .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/teshanj7?tab=repositories](https://github.com/teshanj7?tab=repositories)
 
