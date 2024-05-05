@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teshan Jayakody</h1>
 <h3 align="center">An undergraduate who is passionate about solving problems and learning new things.</h3>
 
-- 🔭 I’m currently working on a **Machine Learning model to detect fake news.**
+- 🔭 I’m currently working on a **Microservices based educational platform**
 
-- 🌱 I’m currently learning **Angular and .NET**
+- 🌱 I’m currently mastering **Angular and ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/teshanj7?tab=repositories](https://github.com/teshanj7?tab=repositories)
 
