@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teshan Jayakody</h1>
 <h3 align="center">24yo undergraduate from 🇱🇰.</h3>
 
-- Currently working as an Business Analyst at Rootcode
+- Currently working as an Business Analyst @ Rootcode
 
 - Ex-Associate Software Engineer
 
